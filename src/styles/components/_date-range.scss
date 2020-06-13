@@ -1,0 +1,10 @@
+.DateRangePickerInput {
+    flex-direction: row;
+    align-items: center;
+}
+
+.DateInput,
+.DateRangePickerInput,
+.DateRangePickerInput_arrow {
+    display: flex !important;
+}
